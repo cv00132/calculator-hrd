@@ -1,0 +1,12 @@
+.green {
+  background-color: #64B255;
+  padding: 2rem;
+  font-size: 2rem;
+  color: white;
+  cursor: pointer;
+}
+
+
+td::focus {
+  background-color: #83C178;
+}
